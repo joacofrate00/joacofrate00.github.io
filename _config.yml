@@ -17,14 +17,10 @@ darkmode: false
 # Social links
 twitter_username: valibexa
 github_username:  joacofrate00
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+
 instagram_username: valibexa
 linkedin_username: valentin-bexa
-# xing_username: jekyll
-# pinterest_username: jekyll
+
 
 
 # Google Analytics and Tag Manager
@@ -37,9 +33,9 @@ linkedin_username: valentin-bexa
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Valentin and I'm a Computer Science Student, currently based in Arad, Romania. I enjoy learning and working with computers and especially tinkering with Virtual Machines and Operating Systems. My experience as an IT instructor helped with my communication skills as well as helping me become a better person and leader.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Linux</mark> and <mark>Virtualization</mark>.
 
 content:
   - title: Projects # Title for the section
