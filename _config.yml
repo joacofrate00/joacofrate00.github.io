@@ -59,7 +59,17 @@ content:
         caption: September 2020 - Present
         quote: >
         description: | # this will include new lines to allow paragraphs
-          A lot of children nowadays get increasingly curious about how computers work and especially how their favorite games work. This is where I step in, working as an IT Instructor, I helped teach children how computers work and think, helping them think mathematically and logically. Logiscool also offers a Robotics course which I also taught, it based on Lego Mindstorms and coding in their proprietary platform. The children where taught using ScoolCode, a proprietary coding language based on Scratch and JavaScript.
+          A lot of children nowadays get increasingly curious about how computers work and especially how their favorite games work. This is where I step in, working as an IT Instructor, I helped teach children how computers work and think, helping them think mathematically and logically. Logiscool also offers a Robotics course which I also taught, it based on Lego Mindstorms and coding in their proprietary platform. The children where taught using ScoolCode, a proprietary coding language based on Scratch and <mark>JavaScript</mark>.
+          
+      - layout: left
+        title: Aquamar Solutions
+        link: aquamarsolutions.ro
+        # link_text: aquamarsolutions.ro
+        sub_title: Website Administrator
+        caption: February 2020 - February 2021
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          Every company needs its websites properly administered and Aquamar Solutions is no exception. Keeping a retail company working is hard and I made sure the online part stayed up-to-date and working. During my time here I worked on 4 websites that were part of the company simultaneously, and learned a lot about WordPress and HTML5 + CSS.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
