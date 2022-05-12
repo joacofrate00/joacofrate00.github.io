@@ -50,6 +50,16 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
           The automotive industry is constantly growing and cars are getting increasingly more tech-focused which means a lot of programmers and developers are needed. This is what helped me discover AROBS and their Embedded C Internship program. During this internship I learned a lot of techincal skills, such as how <mark>Git</mark> works and how effectiv proper teamwork is.
+          
+      - layout: left
+        title: Logiscool
+        link: logiscool.com
+        # link_text: Logiscool.com
+        sub_title: IT and Robotics Instructor
+        caption: September 2020 - Present
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          A lot of children nowadays get increasingly curious about how computers work and especially how their favorite games work. This is where I step in, working as an IT Instructor, I helped teach children how computers work and think, helping them think mathematically and logically. Logiscool also offers a Robotics course which I also taught, it based on Lego Mindstorms and coding in their proprietary platform. The children where taught using ScoolCode, a proprietary coding language based on Scratch and JavaScript.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
